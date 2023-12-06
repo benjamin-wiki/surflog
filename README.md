@@ -1,0 +1,2 @@
+# surflog
+Surfing journal
